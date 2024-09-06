@@ -1,0 +1,32 @@
+Chirag, Yugank, and Chris decide to create a python program together.
+But they are not able to understand how they are going to divide the whole program among them.
+ Also, they are confused with the combination process of the program as well.
+  We can divide a big program into smaller parts known as functions.
+  To explain the same thing to three students, write a python program and create different functions to add,
+   subtract, and multiply two numbers.
+
+
+
+Sahil is wondering whether we can use the same concept of functions in creating simple and compound interest calculators.
+ He is trying to create it but is unable to return the answers from the functions. Help him in doing the same
+
+
+● Nidhi is writing a long program. She needs a function that can check whether a given number is a perfect square or not.
+ To help Nidhi, write a program in python and create a function that checks whether the given number is a perfect square or not.
+
+
+
+Nidhi is creating a program in python for her school project. In between the program, she is converting numerical numbers
+into word format again and again. Then she realizes that she needs a function that can convert a number into word format
+ with hyphens between each word. ( for example 57 = five-seven ). To help Nidhi create a function toWord() that can do
+ the same thing. Hint: Use for loop and
+  use if-elif-else condition Sample run: >> toWord(89) >> eight-nine >> toWord(398) >> three-nine-eight
+
+
+
+
+There is a famous clothing store in a city, which has four different sub-branches under the main branch.
+ End of each day four sub-branches should report back to the main branch about available stock in percentage.
+write a python program and create four different branches and print just the available stock of each branch.
+hint:#create four functions with name of your choice which should consists of one variable as total_stock, sold_stocks,
+ available_stock and a print statement that prints the available stock value with a proper print statement
